@@ -107,9 +107,8 @@
       <Private>True</Private>
       <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Yeoman.VisualStudio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Yeoman.VisualStudio.1.0.0.0\lib\net452\Yeoman.VisualStudio.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Yeoman.VisualStudio">
+      <HintPath>..\packages\Yeoman.VisualStudio.1.0.0.5\lib\net45\Yeoman.VisualStudio.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
